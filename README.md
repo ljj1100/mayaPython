@@ -1,3 +1,3 @@
 # mayaPython
 
-# That is just used to for minju.
+# Only Min Ju can use it.
